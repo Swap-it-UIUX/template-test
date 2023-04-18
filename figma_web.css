@@ -1,0 +1,17 @@
+/* yha pr bol rhe hai ki ye css ki property Pichli html me daal de*/
+html{
+    box-sizing: border-box;
+}
+
+body
+{
+    margin: 0;
+    min-height: 100vh; /*view port height*/
+    background: rgb(255, 255, 255);
+    
+}
+h1
+{
+   color: rgb(255, 0, 157);
+}
+
